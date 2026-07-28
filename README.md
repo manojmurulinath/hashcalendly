@@ -4,7 +4,8 @@ Turns any '#calendly' link on your WordPress site into a Calendly booking popup.
 
 Built by [Manoj Murulinath](https://manoj.co) — one of a handful of small
 WordPress plugins being open-sourced from years of hands-on WordPress and
-webops work.
+webops work. Sibling to [HashCal](https://github.com/manojmurulinath/hashcal) and
+[HashHubspot](https://github.com/manojmurulinath/hashhubspot).
 
 ## What it does
 
